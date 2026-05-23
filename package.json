@@ -1,0 +1,8 @@
+{
+  "name": "blitz-server",
+  "dependencies": {
+    "@neondatabase/serverless": "^0.7.0",
+    "bcryptjs": "^2.4.3",
+    "jsonwebtoken": "^9.0.0"
+  }
+}
